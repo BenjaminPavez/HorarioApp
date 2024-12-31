@@ -6,7 +6,7 @@
 #
 # Fecha Inicio: 28-12-2024
 #
-# Fecha Ultima Modificacion: 29-12-2024
+# Fecha Ultima Modificacion: 31-12-2024
 #
 # Versión: 0.1
 #
@@ -62,50 +62,56 @@ class Horario(CTk):
         self.title("Generador de Horarios")
         self.configure(bg="#2b2b2b")  # Opcional: fondo oscuro
 
-        self.rowconfigure(0, weight=1)
-        self.rowconfigure(1, weight=1)
-        self.rowconfigure(2, weight=1)
+        # Configuración de filas y columnas
+        self.rowconfigure(0, weight=1)  # Título
+        self.rowconfigure(1, weight=1)  # Cantidad de topes
+        self.rowconfigure(2, weight=3)  # Tabla
+        self.rowconfigure(3, weight=1)  # Asignaturas label
+        self.rowconfigure(4, weight=2)  # Asignaturas contenido
+        self.rowconfigure(5, weight=1)  # Topes label
+        self.rowconfigure(6, weight=2)  # Topes contenido
         self.columnconfigure(0, weight=1)
 
-        title_label = CTkLabel(self, text="Horario 2025-1: Minimizar cantidad de Topes", 
+        # Título
+        title_label = CTkLabel(self, text="Horario 2025-1: Minimizar cantidad de Topes",
                                text_color="white", font=("Helvetica", 16))
         title_label.grid(row=0, column=0, pady=10, sticky="n")
 
-        topes_label = CTkLabel(self, text=f"Cantidad de Topes: {len(topes_problem)}", 
+        # Cantidad de topes
+        topes_label = CTkLabel(self, text=f"Cantidad de Topes: {len(topes_problem)}",
                                font=("Helvetica", 12))
         topes_label.grid(row=1, column=0, pady=10, sticky="n")
 
+        # Tabla
         frametabla = CTkFrame(master=self, corner_radius=10)
         frametabla.grid(row=2, column=0, padx=20, pady=10, sticky="nsew")
 
         table = CTkTable(frametabla, row=11, column=9, values=wea, width=130, height=10, corner_radius=10)
         table.pack(expand=True, fill="both", padx=10, pady=10)
 
+        # Asignaturas
+        asignaturas_label = CTkLabel(self, text="Asignaturas", font=("Helvetica", 12))
+        asignaturas_label.grid(row=3, column=0, pady=10, sticky="n")
 
-        #Ramos
-        observations_label = CTkLabel(self, text="Asignaturas", font=("Helvetica", 12))
-        observations_label.grid(row=3, column=0, pady=10, sticky="n")
-
-        observations_frame = CTkFrame(self, corner_radius=10)
-        observations_frame.grid(row=4, column=0, padx=20, pady=10, sticky="nsew")
+        asignaturas_frame = CTkFrame(self, corner_radius=10)
+        asignaturas_frame.grid(row=4, column=0, padx=20, pady=10, sticky="nsew")
 
         for i in horario:
-            CTkLabel(observations_frame, text=f"{i}", 
-                     font=("Helvetica", 12)).pack(anchor="w", padx=10)
-            
-        #Topes 
-        observations_label = CTkLabel(self, text="Topes", font=("Helvetica", 12))
-        observations_label.grid(row=3, column=0, pady=10, sticky="n")
-
-        observations_frame = CTkFrame(self, corner_radius=10)
-        observations_frame.grid(row=4, column=0, padx=20, pady=10, sticky="nsew")
-
-        for i, (ramo1, ramo2) in enumerate(topes_problem):
-            CTkLabel(observations_frame, text=f"El ramo {ramo1} topa con {ramo2}", 
+            CTkLabel(asignaturas_frame, text=f"{i}",
                      font=("Helvetica", 12)).pack(anchor="w", padx=10)
 
-        self.rowconfigure(2, weight=3)
-        self.rowconfigure(4, weight=2)
+        # Topes
+        topes_label = CTkLabel(self, text="Topes", font=("Helvetica", 12))
+        topes_label.grid(row=5, column=0, pady=10, sticky="n")
+
+        topes_frame = CTkFrame(self, corner_radius=10)
+        topes_frame.grid(row=6, column=0, padx=20, pady=10, sticky="nsew")
+
+        for ramo1, ramo2 in topes_problem:
+            CTkLabel(topes_frame, text=f"El ramo {ramo1} topa con {ramo2}",
+                     font=("Helvetica", 12)).pack(anchor="w", padx=10)
+
+
 
         
 class Ramo:
@@ -164,8 +170,8 @@ def Topes(horario):
             dia,bloque = hora.split(" ")
             x,y = translate(dia,bloque)
             if Dataframe[y][x] != "-":
-                Dataframe[y][x] = "TOPE"
                 topes_problem.append((obj.sigla,Dataframe[y][x]))
+                Dataframe[y][x] = "TOPE"
                 tope += 1
             else:
                 Dataframe[y][x] = obj.sigla
@@ -226,12 +232,54 @@ def ordenar(data, horario_actual, obligatorios, mejor_horario=None):
 #Cargar datos de ramos
 data = []
 archivo = open("ramos.csv", "r")
+rams = []
 for line in archivo:
     ramo,sigla,paralelo,horario = line.split(",")
     data.append(Ramo(ramo,sigla,paralelo,horario))
+    if ramo not in rams:
+        rams.append(ramo)
 
+archivo.close()
+
+print("-------------------------------------------------------------------------------")
+print("                            Bienvenido a HorarioApp:                           ")
+print("-------------------------------------------------------------------------------")
+print("Ramos cargados de 'ramos.csv':", data)
+print("-------------------------------------------------------------------------------")
+print("Cantidad de ramos:", len(rams))
+print("-------------------------------------------------------------------------------")
+print("\n")
+print("-------------------------------------------------------------------------------")
+print("                             Ramos Obligatorios                                ")
+print("-------------------------------------------------------------------------------")
+print("\n")
 #Ramos obligatorios
-obligatorios = ["Computacion Cientifica", "Gestion de Proyectos Informaticos", "Inteligencia Artificial", "Sistemas Distribuidos"]
+obligatorios = []
+menu = 0
+while menu !=3:
+    print("-------------------------------------------------------------------------------")
+    print("                               Ramos Disponibles                               ")
+    print("-------------------------------------------------------------------------------")
+    for i in range(len(rams)):
+        print(f"{i+1}. ",rams[i])
+    print("-------------------------------------------------------------------------------")
+    print("Obligatorios:", obligatorios)
+    print("-------------------------------------------------------------------------------")
+    print("1. Agregar ramo obligatorio")
+    print("2. Comenzar generacion de horario")
+    menu = int(input("Ingrese opcion: "))
+    if menu == 1:
+        ramo = int(input("Ingrese numero del ramo: "))
+        obligatorios.append(rams[ramo-1])
+        print("Ramo agregado", obligatorios)
+    elif menu == 2:
+        menu = 3
+        print("Generando horario...")
+    os.system("cls")
+
+
+
+
 
 mejor_horario = ordenar(data, [], obligatorios)
 print("Mejor horario encontrado:", mejor_horario)
