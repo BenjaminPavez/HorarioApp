@@ -12,26 +12,32 @@ Este proyecto está pensado para facilitar la planificación académica de estud
 
 Frontend de la aplicación HorarioApp.
 
-### Requerimientos
+## Requerimientos
 
 - Python >= 3.10
-- Tkinter (incluido en Python)
+- Tkinter
 - reportlab >= 3.6.12 (para generación de PDFs)
 - Pillow >= 9.0.0 (para gestión de imágenes)
 
-### Inicio Rápido
+## Instrucciones de Uso
 
-1. Instala las dependencias necesarias utilizando:
+Para instalar las dependencias necesarias para HorarioApp, instala las siguientes dependencias:
 
-2. Ejecuta la aplicación con:
+```sh
+pip install customtkinter
+pip install tkcalendar
+pip install CTkListbox
+pip install CTkTable
+```
 
-3. Ahora puedes interactuar con la aplicación en tu entorno local.
+Luego para ejecutar el archivo `main.py` :
+
+```sh
+python main.py
+```
 
 ## ⚠️ **IMPORTANTE**
 
-La funcionalidad de generación de horarios depende de los datos del sistema SIGA y las reglas académicas configuradas. Asegúrate de ingresar la información correctamente para obtener los mejores resultados.
-
-## Desarrolladores:
-- Benjamín Pavez
+Este es un proyecto propio y puede presentar bugs o errores.
 
 2024-2
