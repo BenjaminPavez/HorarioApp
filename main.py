@@ -67,7 +67,7 @@ class Horario(CTk):
         self.rowconfigure(1, weight=1)  # Cantidad de topes
         self.rowconfigure(2, weight=3)  # Tabla
         self.rowconfigure(3, weight=1)  # Asignaturas label
-        self.rowconfigure(4, weight=2)  # Asignaturas contenido
+        self.rowconfigure(4, weight=3)  # Asignaturas contenido
         self.rowconfigure(5, weight=1)  # Topes label
         self.rowconfigure(6, weight=2)  # Topes contenido
         self.columnconfigure(0, weight=1)
