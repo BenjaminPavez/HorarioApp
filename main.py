@@ -95,7 +95,6 @@ class Horario(CTk):
 
         asignaturas_frame = CTkFrame(self, corner_radius=10)
         asignaturas_frame.grid(row=4, column=0, padx=20, pady=10, sticky="nsew")
-
         for i in horario:
             CTkLabel(asignaturas_frame, text=f"{i}",
                      font=("Helvetica", 12)).pack(anchor="w", padx=10)
@@ -157,9 +156,7 @@ def translate(dia, bloque):
                "15-16": 8,
                "17-18": 9,
                "19-20": 10}
-    
-    return bloques[bloque], dias[dia]
-
+    return  dias[dia],bloques[bloque]
 
 topes_problem = []
 #data es una lista con los ramos SIN REPETIR
