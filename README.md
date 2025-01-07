@@ -6,10 +6,11 @@
 
 **HorarioApp** es una aplicación diseñada para ayudar a los estudiantes a crear horarios académicos optimizados. A partir de los horarios disponibles en SIGA, minimiza los topes y organiza las asignaturas de manera eficiente, generando horarios personalizados que se pueden exportar en formato PDF.
 
-![Screenshot 2025-01-02 231656](https://github.com/user-attachments/assets/d9068ce2-d59b-4c01-91e2-5b2063421c28)
-
+![Captura_1](https://github.com/user-attachments/assets/d2a343a8-990e-42ba-946c-06a73350d75e)
 
 Este proyecto está pensado para facilitar la planificación académica de estudiantes universitarios, especialmente sansanos, proporcionando una experiencia intuitiva y funcional.
+
+![Captura_3](https://github.com/user-attachments/assets/bf48d917-99b7-40b1-ae21-433e1f9ad717)
 
 
 ## Requerimientos
