@@ -27,6 +27,7 @@ Para instalar las dependencias necesarias para HorarioApp, instala las siguiente
 pip install customtkinter
 pip install tkcalendar
 pip install CTkListbox
+pip install reportlab
 pip install CTkTable
 ```
 
