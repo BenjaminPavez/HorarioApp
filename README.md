@@ -16,8 +16,6 @@ Este proyecto está pensado para facilitar la planificación académica de estud
 
 - Python >= 3.10
 - Tkinter
-- reportlab >= 3.6.12 (para generación de PDFs)
-- Pillow >= 9.0.0 (para gestión de imágenes)
 
 ## Instrucciones de Uso
 
@@ -30,6 +28,16 @@ pip install CTkListbox
 pip install reportlab
 pip install CTkTable
 ```
+
+Ahora debes llenar el archivo `ramos.csv` con tus ramos, si hay ramos con mas de un paralelo tambien lo tienes que anotar, aqui un ejemplo :
+
+```sh
+Nombre_Asignatura_1,Sigla_Asignatura_1,Paralelo_Asignatura_1,Horario_1_Asignatura_1;Horario_2_Asignatura_1;Horario_3_Asignatura_1
+Nombre_Asignatura_2,Sigla_Asignatura_2,Paralelo_Asignatura_1,Horario_1_Asignatura_2;Horario_2_Asignatura_2;Horario_3_Asignatura_2
+Nombre_Asignatura_3,Sigla_Asignatura_3,Paralelo_Asignatura_3,Horario_1_Asignatura_3;Horario_2_Asignatura_3
+...
+```
+Despues debes modificar el archivo `main.py` indicando el semestre, la carrera, la cantidad de ramos que quieres tomar y los ramos obligatorios
 
 Luego para ejecutar el archivo `main.py` :
 

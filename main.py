@@ -6,7 +6,7 @@
 #
 # Fecha Inicio: 28-12-2024
 #
-# Fecha Ultima Modificacion: 02-01-2025
+# Fecha Ultima Modificacion: 06-01-2025
 #
 # Versión: 0.1
 #
@@ -19,24 +19,16 @@
 # pero SIN NINGUNA GARANTÍA; sin siquiera la garantía implícita de
 # APTITUD PARA UN PROPÓSITO PARTICULAR.
 #
-#
 # DESCRIPCIÓN:
 # Programa principal de HorarioApp (main.py).
 #
 # -----------------------------------------------------------------------------
-import os
-from reportlab.lib.pagesizes import letter
-from reportlab.pdfgen import canvas
 from customtkinter import *
-from PIL import Image
-from tkinter import messagebox, ttk, simpledialog
-from tkcalendar import DateEntry, Calendar
-from datetime import datetime
+from tkinter import messagebox
 from CTkListbox import *
 from CTkTable import *
 import tkinter as tk
 from copy import deepcopy
-
 
 #DATAFRAME
 Dataframe = [
@@ -53,82 +45,26 @@ Dataframe = [
     ["19-20", "21:40 - 22:50", "-", "-", "-", "-", "-", "-", "-"]
 ]
 
-
-
-'''
-La funcion genera todas las combinaciones de horarios con n ramos, considerando ramos obligatorios y guarda los que tienen la menor cantidad de topes.
-
-    Parametros:
-        data (list): Lista de ramos disponibles.
-        horario_actual (list): Lista de ramos seleccionados actualmente.
-        obligatorios (list): Lista con nombres de ramos obligatorios.
-        mejor_horario (list): Lista de los mejores horarios encontrados hasta ahora.
-        min_topes (float): Cantidad mínima de topes encontrada.
-
-
-    Retorno:
-        La funcion retorna una lista de horarios con la menor cantidad de topes.
-'''
-def ordenar_todos(data, horario_actual, obligatorios, mejor_horarios=None, min_topes=float('inf')):
-    if mejor_horarios is None:
-        mejor_horarios = []
-
-    if len(horario_actual) == 7:
-        # Verifica que todos los obligatorios estén presentes
-        if all(any(ramo.nombre == oblig for ramo in horario_actual) for oblig in obligatorios):
-            topes = revisar(horario_actual)
-            if topes < min_topes:
-                # Nuevo mejor horario encontrado
-                mejor_horarios = [horario_actual[:]]
-                min_topes = topes
-            elif topes == min_topes:
-                # Añadir horario con la misma cantidad mínima de topes
-                mejor_horarios.append(horario_actual[:])
-        return mejor_horarios, min_topes
-
-    for i in range(len(data)):
-        ramo = data[i]
-        if ramo not in horario_actual:
-            nuevo_horario = horario_actual + [ramo]
-            mejor_horarios, min_topes = ordenar_todos(data[i+1:], nuevo_horario, obligatorios, mejor_horarios, min_topes)
-
-    return mejor_horarios, min_topes
+#-----------------------------------------------------------------------------Variables globales-----------------------------------------------------------------------------
+topes_problem = [] #DEJAR VACIO
+semestre = "2025-1" #USAR NOTACION 2025-1 como por ejemplo
+nombre_carrera = "Ingeniería Civil en Informática"
+numero_ramos = 7
+#Escribe aqui tus ramos obligatorios, tiene que ser igual o menor al numero de ramos
+obligatorios = ["Computacion Cientifica", "Gestion de Proyectos Informaticos", "Inteligencia Artificial", "Sistemas Distribuidos"]
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-'''
-La funcion guarda los horarios óptimos en un archivo de texto.
-
-    Parametros:
-        horarios (list): Lista de horarios óptimos.
-        archivo (str): Nombre del archivo de texto
-        
-    Retorno:
-        La funcion no retorna nada.
-'''
-def guardar_horarios_txt(horarios, archivo="horarios_optimos.txt"):
-    """
-    Guarda todos los horarios en un archivo de texto.
-    """
-    with open(archivo, "w") as f:
-        for idx, horario in enumerate(horarios, start=1):
-            f.write(f"Horario #{idx}:\n")
-            for ramo in horario:
-                f.write(f"  {ramo}\n")
-            f.write("\n")
-    print(f"Horarios óptimos guardados en {archivo}")
-
-
-
-# Interfaz Gráfica
+#Interfaz Gráfica
 class HorarioSeleccionado(CTk):
-    # Constructor
+    #Constructor
     def __init__(self, wea, topes_problem, horario, num):
         super().__init__()
 
         self.geometry("1000x800")
         self.title(f"HorarioApp - Horario #{num+1}")
-        self.configure(bg="#2b2b2b")  # Opcional: fondo oscuro
+        self.configure(bg="#2b2b2b")
 
         self.rowconfigure(0, weight=1)
         self.rowconfigure(1, weight=1)
@@ -139,7 +75,7 @@ class HorarioSeleccionado(CTk):
         self.rowconfigure(6, weight=2)
         self.columnconfigure(0, weight=1)
 
-        title_label = CTkLabel(self, text="Horario 2025-1 - Ingeniería Civil en Informática",
+        title_label = CTkLabel(self, text=f"Horario {semestre} - {nombre_carrera}",
                                text_color="white", font=("Helvetica", 16))
         title_label.grid(row=0, column=0, pady=10, sticky="n")
 
@@ -171,6 +107,125 @@ class HorarioSeleccionado(CTk):
         for ramo1, ramo2 in topes_problem:
             CTkLabel(topes_frame, text=f"El ramo {ramo1} topa con {ramo2}",
                      font=("Helvetica", 12)).pack(anchor="w", padx=10)
+
+
+
+#Interfaz Gráfica
+class Horario(CTk):
+    def __init__(self, horarios_optimos):
+        super().__init__()
+        self.geometry("970x800")
+        self.title("HorarioApp")
+        self.configure(bg="#2b2b2b")
+
+        self.horarios_optimos = horarios_optimos
+
+        CTkLabel(self, text="Horarios Óptimos", text_color="white", font=("Helvetica", 16)).grid(row=0, column=0, pady=10, sticky="n")
+
+        self.listbox = CTkListbox(self, height=600, width=900)
+        self.listbox.grid(row=1, column=0, padx=20, pady=10, sticky="nsew")
+
+        for idx, horario in enumerate(horarios_optimos, start=1):
+            rams = ""
+            for ramo in horario:
+                rams += f"({ramo.sigla}-{ramo.paralelo}) "
+            self.listbox.insert(tk.END, f"Horario #{idx} - Ramos: {rams}")
+
+        CTkButton(self, text="Mostrar Detalles", command=self.mostrar_detalles).grid(row=2, column=0, pady=10)
+
+        guardar_horarios_txt(horarios_optimos)
+
+    #Muestra los detalles del horario seleccionado en una ventana emergente con una tabla.
+    def mostrar_detalles(self):
+        seleccionado = self.listbox.curselection() 
+        if isinstance(seleccionado, int):
+            idx = seleccionado
+        elif seleccionado:
+            idx = seleccionado[0]
+        else:
+            messagebox.showwarning("Advertencia", "No has seleccionado ningún horario.")
+            return
+
+        horario = self.horarios_optimos[idx] 
+
+        data_copy = deepcopy(Dataframe)
+        Topes(horario, data_copy, idx)
+
+
+
+#Clase Ramo
+class Ramo:
+    def __init__(self, nombre, sigla, paralelo, horario):
+        self.nombre = nombre
+        self.sigla = sigla
+        self.paralelo = paralelo
+        self.horario = horario
+
+    def __str__(self):
+        return f"{self.nombre} ({self.sigla}) - Paralelo {self.paralelo} - {self.horario}"
+
+    def __repr__(self):
+        return f"{self.nombre} ({self.sigla}) - Paralelo {self.paralelo} - {self.horario}"
+
+
+
+'''
+La funcion genera todas las combinaciones de horarios con n ramos, considerando ramos obligatorios y guarda los que tienen la menor cantidad de topes.
+
+    Parametros:
+        data (list): Lista de ramos disponibles.
+        horario_actual (list): Lista de ramos seleccionados actualmente.
+        obligatorios (list): Lista con nombres de ramos obligatorios.
+        mejor_horario (list): Lista de los mejores horarios encontrados hasta ahora.
+        min_topes (float): Cantidad mínima de topes encontrada.
+
+
+    Retorno:
+        La funcion retorna una lista de horarios con la menor cantidad de topes.
+'''
+def ordenar_todos(data, horario_actual, obligatorios, mejor_horarios=None, min_topes=float('inf')):
+    if mejor_horarios is None:
+        mejor_horarios = []
+
+    if len(horario_actual) == numero_ramos:
+        if all(any(ramo.nombre == oblig for ramo in horario_actual) for oblig in obligatorios):
+            topes = revisar(horario_actual)
+            if topes < min_topes:
+                mejor_horarios = [horario_actual[:]]
+                min_topes = topes
+            elif topes == min_topes:
+                mejor_horarios.append(horario_actual[:])
+        return mejor_horarios, min_topes
+
+    for i in range(len(data)):
+        ramo = data[i]
+        if ramo not in horario_actual:
+            nuevo_horario = horario_actual + [ramo]
+            mejor_horarios, min_topes = ordenar_todos(data[i+1:], nuevo_horario, obligatorios, mejor_horarios, min_topes)
+
+    return mejor_horarios, min_topes
+
+
+
+'''
+La funcion guarda los horarios óptimos en un archivo de texto.
+
+    Parametros:
+        horarios (list): Lista de horarios óptimos.
+        archivo (str): Nombre del archivo de texto
+        
+    Retorno:
+        La funcion no retorna nada.
+'''
+def guardar_horarios_txt(horarios, archivo="horarios_optimos.txt"):
+    with open(archivo, "w") as f:
+        for idx, horario in enumerate(horarios, start=1):
+            f.write(f"Horario #{idx}:\n")
+            for ramo in horario:
+                f.write(f"  {ramo}\n")
+            f.write("\n")
+    print(f"Horarios óptimos guardados en {archivo}")
+
 
 
 '''
@@ -208,9 +263,6 @@ def translate(dia, bloque):
     return dias[dia],bloques[bloque]
 
 
-topes_problem = []
-
-
 
 '''
 La funcion calcula los topes y muestra el horario seleccionado.
@@ -224,7 +276,7 @@ La funcion calcula los topes y muestra el horario seleccionado.
         La funcion no retorna nada.
 '''
 def Topes(horario, data, num):
-    local_topes_problem = []  # Nueva lista para evitar acumulación
+    local_topes_problem = []
     for obj in horario:
         for hora in obj.horario.split(";"):
             dia, bloque = hora.split(" ")
@@ -235,71 +287,8 @@ def Topes(horario, data, num):
             else:
                 data[y][x] = obj.sigla
 
-    # Mostrar el horario seleccionado
     ui = HorarioSeleccionado(data, local_topes_problem, horario, num)
     ui.mainloop()
-
-
-# Interfaz Gráfica
-class Horario(CTk):
-    def __init__(self, horarios_optimos):
-        super().__init__()
-        self.geometry("1000x800")
-        self.title("HorarioApp")
-        self.configure(bg="#2b2b2b")  # Fondo oscuro opcional
-
-        # Guardar horarios óptimos como atributo
-        self.horarios_optimos = horarios_optimos
-
-        # Título
-        CTkLabel(self, text="Horarios Óptimos", text_color="white", font=("Helvetica", 16)).grid(row=0, column=0, pady=10, sticky="n")
-
-        # Lista de horarios
-        self.listbox = CTkListbox(self, height=100, width=100)
-        self.listbox.grid(row=1, column=0, padx=20, pady=10, sticky="nsew")
-
-        # Cargar horarios en la lista
-        for idx, horario in enumerate(horarios_optimos, start=1):
-            self.listbox.insert(tk.END, f"Horario #{idx}")
-
-        # Botón para mostrar detalles
-        CTkButton(self, text="Mostrar Detalles", command=self.mostrar_detalles).grid(row=2, column=0, pady=10)
-
-        # Guardar los horarios en un archivo
-        guardar_horarios_txt(horarios_optimos)
-
-    def mostrar_detalles(self):
-        """
-        Muestra los detalles del horario seleccionado en una ventana emergente con una tabla.
-        """
-        seleccionado = self.listbox.curselection()  # Obtiene los índices seleccionados
-        if isinstance(seleccionado, int):  # Si devuelve un entero directamente
-            idx = seleccionado
-        elif seleccionado:  # Si es una lista/tupla y no está vacía
-            idx = seleccionado[0]
-        else:
-            messagebox.showwarning("Advertencia", "No has seleccionado ningún horario.")
-            return
-
-        horario = self.horarios_optimos[idx]  # Obtiene el horario correspondiente
-
-        # Crear una copia independiente del Dataframe
-        data_copy = deepcopy(Dataframe)
-        Topes(horario, data_copy, idx)  # Pasa la copia del Dataframe
-
-# Clase Ramo
-class Ramo:
-    def __init__(self, nombre, sigla, paralelo, horario):
-        self.nombre = nombre
-        self.sigla = sigla
-        self.paralelo = paralelo
-        self.horario = horario
-
-    def __str__(self):
-        return f"{self.nombre} ({self.sigla}) - Paralelo {self.paralelo} - {self.horario}"
-
-    def __repr__(self):
-        return f"{self.nombre} ({self.sigla}) - Paralelo {self.paralelo} - {self.horario}"
 
 
 
@@ -317,7 +306,7 @@ def revisar(horario):
     topes = 0
 
     for ramo in horario:
-        bloques = ramo.horario.split(";")  # Divide los bloques horarios
+        bloques = ramo.horario.split(";")
         for bloque in bloques:
             if bloque in horarios_usados:
                 topes += 1
@@ -341,8 +330,7 @@ La funcion genera combinaciones de horarios con n ramos, considerando ramos obli
         La funcion retorna una lista de ramos con la mejor combinación.
 '''
 def ordenar(data, horario_actual, obligatorios, mejor_horario=None):
-    if len(horario_actual) == 7:
-        # Verifica que todos los obligatorios estén presentes
+    if len(horario_actual) == numero_ramos:
         if all(any(ramo.nombre == oblig for ramo in horario_actual) for oblig in obligatorios):
             topes = revisar(horario_actual)
             if mejor_horario is None or topes < revisar(mejor_horario):
@@ -373,8 +361,7 @@ for line in archivo:
 archivo.close()
 
 
-#Escribe aqui tus ramos obligatorios
-obligatorios = ["Computacion Cientifica", "Gestion de Proyectos Informaticos", "Inteligencia Artificial", "Sistemas Distribuidos"]
+
 
 
 #Generar los horarios óptimos
