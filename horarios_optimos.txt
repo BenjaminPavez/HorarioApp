@@ -1,0 +1,2784 @@
+Horario #1:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #2:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #3:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #4:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #5:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #6:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #7:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #8:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #9:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #10:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #11:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #12:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #13:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #14:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #15:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #16:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #17:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #18:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #19:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #20:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #21:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #22:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #23:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #24:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #25:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #26:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #27:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #28:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #29:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #30:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #31:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #32:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #33:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #34:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #35:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #36:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #37:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #38:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #39:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #40:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #41:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #42:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #43:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #44:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #45:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #46:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #47:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #48:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #49:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #50:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #51:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #52:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #53:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #54:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #55:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #56:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #57:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #58:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 200 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #59:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #60:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #61:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #62:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #63:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #64:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #65:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #66:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #67:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #68:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #69:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #70:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #71:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #72:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #73:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #74:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #75:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #76:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #77:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #78:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #79:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #80:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #81:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #82:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #83:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #84:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #85:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #86:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #87:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #88:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #89:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #90:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #91:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #92:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #93:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #94:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #95:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #96:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #97:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #98:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #99:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #100:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #101:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #102:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #103:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #104:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #105:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #106:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #107:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #108:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #109:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #110:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #111:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #112:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #113:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #114:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #115:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #116:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 201 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #117:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #118:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #119:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #120:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #121:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #122:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #123:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #124:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #125:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #126:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #127:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #128:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #129:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #130:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #131:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #132:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #133:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #134:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #135:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #136:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #137:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #138:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #139:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #140:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Computacion Distribuida para Big Data (INF-356) - Paralelo 200 - Lunes 13-14;Miercoles 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #141:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #142:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #143:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #144:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #145:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #146:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #147:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #148:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #149:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #150:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #151:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #152:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Innovacion Tecnologica (INF-361) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #153:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #154:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #155:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #156:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+
+Horario #157:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #158:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #159:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #160:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #161:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #162:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #163:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #164:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Programacion de Sistemas (INF-348) - Paralelo 200 - Lunes 11-12;Lunes 13-14
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #165:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #166:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #167:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller Criptografia Aplicada (INF-358) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #168:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+
+Horario #169:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #170:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Programacion (ILI-140) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #171:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+
+Horario #172:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #173:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Taller de Redes de Computadores (INF-354) - Paralelo 200 - Viernes 3-4;Viernes 5-6
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
+Horario #174:
+  Computacion Cientifica (INF-285) - Paralelo 200 - Martes 9-10;Jueves 9-10;Viernes 3-4
+
+  Gestion de Proyectos Informaticos (INF-360) - Paralelo 202 - Jueves 3-4;Jueves 5-6
+
+  Inteligencia Artificial (INF-295) - Paralelo 200 - Lunes 5-6;Lunes 7-8;Martes 3-4;Martes 5-6
+
+  Sistemas Distribuidos (INF-343) - Paralelo 200 - Martes 5-6;Martes 9-10
+
+  Tecnologias Disruptivas en el Desarrollo de Smart Cities (INF-378) - Paralelo 200 - Miercoles 9-10;Miercoles 11-12
+
+  Testing de Interfaces Usuarios (INF-338) - Paralelo 200 - Miercoles 3-4;Miercoles 5-6
+
+  Topicos de Informacion Tecnologia y Gestion (INF-368) - Paralelo 200 - Martes 11-12;Martes 13-14
+
+
